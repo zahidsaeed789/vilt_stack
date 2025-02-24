@@ -16,7 +16,7 @@ import Footer from "@/Layouts/Partials/Footer.vue";
             </header>
 
             <!-- Page Content -->
-            <main class="flex-grow">
+            <main class="flex-grow px-10">
                 <slot />
             </main>
 
